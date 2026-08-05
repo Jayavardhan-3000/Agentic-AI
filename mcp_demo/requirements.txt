@@ -1,0 +1,7 @@
+fastmcp
+langgraph
+langchain
+langchain-core
+langchain-groq
+langchain-mcp-adapters
+python-dotenv
