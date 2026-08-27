@@ -1,7 +1,7 @@
 [project]
 name = "mcp-demo"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Virtual Environment that contains packages regarding MCP (server and client), it contains langchain tools in specific along with FastMCP"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
